@@ -7,7 +7,7 @@ while(num>0){
 fact=fact*num;
 num--;
 }
-System.out.println("Factorial of "+i+"="+ fact);
+System.out.println("Factorial of"+i+"="+fact);
 i++;
 }
 }
